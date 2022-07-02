@@ -29,10 +29,10 @@ Here are some ideas to get you started:
   </div>
    <h2>Hi there 👋 I am Mykie a Software Engineer from Nigeria</h1>
   <div align="left">
-    <p>🌱 I'm a Software Engineering student at ALX-Africa</p>
-    <p>🌱 I’m currently learning C, Shell scripting, Python(FastApi) and NodeJS(Express)</p>
-    <p>🔭 I’m currently building the backend architecture of an LMS project using FastApi</p>
-    <p>👯 I’m also collaborating and looking to collaborate on open source projects</p>
+    <p>🌱 A Software Engineering student at ALX-Africa<br>
+    🌱 Currently learning C, Shell scripting, Python(FastApi) and NodeJS(Express)</p>
+    <p>🔭 I am in a team building the backend architecture of an LMS project using FastApi</p>
+    <p>👯 I also collaborate and look forward to collaborating on open source projects</p>
     <p>🤔 I’m looking for help with finding remote bootcamps and internships</p>
     <p>📫 I can be reached via my socials or @: michaelrowland.ng@gmail.com</p>
   </div>
