@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <div>
     <img src="https://komarev.com/ghpvc/?username=mykie88&style=flat-square&color=blue" alt=""/>
   </div>
+   <h2>Hi there 👋 I am Mykie a Software Engineer from Nigeria</h1>
   <div align="left">
-    <h2>Hi there 👋 I am Mykie a Software Engineer from Nigeria</h1>
     <p>🌱 I'm a Software Engineering student at ALX-Africa</p>
     <p>🌱 I’m currently learning C, Shell scripting, Python(FastApi) and NodeJS(Express)</p>
     <p>🔭 I’m currently building the backend architecture of an LMS project using FastApi</p>
