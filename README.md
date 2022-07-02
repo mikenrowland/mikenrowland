@@ -30,10 +30,10 @@ Here are some ideas to get you started:
    <h2>Hi there 👋 I am Mykie a Software Engineer from Nigeria</h1>
   <div align="left">
     <p>🌱 A Software Engineering student at ALX-Africa<br>
-    🌱 Currently learning C, Shell scripting, Python(FastApi) and NodeJS(Express)<br><br>
-    🔭 I am in a team building the backend architecture of an LMS project using FastApi<br><br>
-    👯 I also collaborate and look forward to collaborating on open source projects<br><br>
-    🤔 I’m looking for help with finding remote bootcamps and internships<br><br>
+    🌱 Currently learning C, Shell scripting, Python(FastApi) and NodeJS(Express)<br>
+    🔭 I am in a team building the backend architecture of an LMS project using FastApi<br>
+    👯 I also collaborate and look forward to collaborating on open source projects<br>
+    🤔 I’m looking for help with finding remote bootcamps and internships<br>
     📫 I can be reached via my socials or @: michaelrowland.ng@gmail.com</p>
   </div>
 </div>
