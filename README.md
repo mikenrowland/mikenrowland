@@ -23,10 +23,10 @@
   </div>
   <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=mikenrowland&show_icons=true&theme=tokyonight&show=prs_merged_percentage" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikenrowland&show_icons=true&theme=tokyonight&show=prs_merged_percentage" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikenrowland&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikenrowland&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
     </a>
   </div>
 </div>
