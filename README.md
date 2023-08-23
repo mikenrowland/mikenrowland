@@ -11,7 +11,7 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=mikenrowland&style=flat-square&color=blue" alt=""/>
   </div>
-   <h2>Hi there 👋 I am Mykie a Software Developer from Nigeria</h1>
+   <h3>Hi there 👋 &nbsp I am Mykie, a software developer from Nigeria</h3>
   <div align="left">
     <p>
       🌱 Learning Linux, Shell scripting, Kubernetes, C# (Dotnet)<br>
